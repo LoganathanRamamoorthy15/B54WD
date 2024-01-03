@@ -1,0 +1,45 @@
+{
+    "personal_info": {
+      "name": "Loganathan",
+      "email": "rloganathan1512@gmail.com",
+      "phone": "7200922961",
+      "address": "123 Main Street, Chennai, TN"
+    },
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "school": "University of Madras",
+        "graduation_year": 2015
+      }
+    ],
+    "experience": [
+      {
+        "title": "Software Engineer",
+        "company": "Tech Solutions Inc.",
+        "location": "Chennai",
+        "start_date": "June 2015",
+        "end_date": "Present",
+        "responsibilities": [
+          "Developing and maintaining software applications",
+          "Collaborating with cross-functional teams"
+        ]
+      }
+    ],
+    "skills": [
+      "Programming Languages: Java, Python",
+      "Web Development: HTML, CSS, JavaScript",
+      "Database: MySQL, MongoDB",
+      "Tools: Git, Jira",
+      "Problem Solving",
+      "Team Collaboration"
+    ],
+    "certifications": [
+      "Certified Java Developer",
+      "AWS Certified Developer - Associate"
+    ],
+    "languages": [
+      "English (Fluent)",
+      "Spanish (Intermediate)"
+    ]
+  }
+  

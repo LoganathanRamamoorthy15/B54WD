@@ -86,6 +86,34 @@
 // console.log(c.getname());
 
 
+// var arr = [{name:"John",age:20},{name:"Logan",age:21}]
+// var res=arr.map((ele)=>(ele.age+5))
+// console.log(res);
 
+// var arr = [1,2,3,4,5,6 ]
+// var res = arr.filter((ele)=>(ele%2==0))
+// console.log(res);
 
+// var arr = [{name:"John",mark:35},{name:"Logan",mark:55},{name:"Logan2",mark:100}]
+// var res=arr.filter((ele)=>ele.mark>35);
+// var res2=res.map((ele)=>ele.name);
 
+// console.log(res2);
+
+// var request = new XMLHttpRequest();
+// request.open('GET',"https://restcountries.com/v3.1/all");
+// request.send();
+// request.onload = function() {
+//     var result=JSON.parse(request.response);
+//     console.log(result);
+// }
+// console.log(result.population);
+
+//   var res=result.filter((ele)=>ele.population);
+//   console.log(res);
+
+var div = document.createElement("div");
+
+div.innerText ="Click";
+document.body.append(div);
+div.addElementListener("mouseover",()=>div.style.backgroundColor="red");
