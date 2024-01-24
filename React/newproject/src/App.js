@@ -11,6 +11,7 @@ function App() {
       <Card planName="Plus" price="49" user="✔ Single User" storage="✔ 50GB Storage" project="✔ Unlimted Public Projects" community="✔ Community Access" projects="✔ Unlimited Private Projects" phone="✔ Dedicated Phone Support" free="✔ Free Subdoman" monthly="✔ Monthly Status Report"/>
 
     </div>
+    <div></div>
     </div>
   );
 }
